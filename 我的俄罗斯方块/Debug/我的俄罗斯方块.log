@@ -1,0 +1,57 @@
+﻿生成启动时间为 2021/1/18 10:41:10。
+项目“G:\vc\我的俄罗斯方块\我的俄罗斯方块\我的俄罗斯方块.vcxproj”在节点 2 上(build 个目标)。
+项目文件包含 ToolsVersion="15.0"。此工具集可能未知或缺失。在这种情况下，通过安装 MSBuild 的正确版本，或许可以解决此问题。否则，该 build 可能已因策略原因而被强制为某个特定 ToolsVersion。将该项目视为其已具有 ToolsVersion="4.0"。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=291333。
+InitializeBuildStatus:
+  正在创建“Debug\我的俄罗斯方块.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+  main.cpp
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(238): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(242): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(259): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(265): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(269): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(284): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(302): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(319): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(358): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(409): warning C4996: 'setfont': This function is deprecated. Instead, use this new function: settextstyle. See http://www.easyx.cn/help?settextstyle for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\graphics.h(78) : 参见“setfont”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(448): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 参见“kbhit”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(481): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 参见“kbhit”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(482): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(484): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(491): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : 参见“kbhit”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(492): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(578): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+g:\vc\我的俄罗斯方块\我的俄罗斯方块\main.cpp(587): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\vc\我的俄罗斯方块\我的俄罗斯方块\Debug\我的俄罗斯方块.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\我的俄罗斯方块.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\vc\我的俄罗斯方块\我的俄罗斯方块\Debug\我的俄罗斯方块.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\vc\我的俄罗斯方块\我的俄罗斯方块\Debug\我的俄罗斯方块.lib" /MACHINE:X86 Debug\main.obj
+  LINK : 没有找到 G:\vc\我的俄罗斯方块\我的俄罗斯方块\Debug\我的俄罗斯方块.exe 或上一个增量链接没有生成它；正在执行完全链接
+  我的俄罗斯方块.vcxproj -> G:\vc\我的俄罗斯方块\我的俄罗斯方块\Debug\我的俄罗斯方块.exe
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\vc\我的俄罗斯方块\我的俄罗斯方块\Debug\我的俄罗斯方块.exe;#1" /manifest "Debug\我的俄罗斯方块.exe.intermediate.manifest"
+FinalizeBuildStatus:
+  正在删除文件“Debug\我的俄罗斯方块.unsuccessfulbuild”。
+  正在对“Debug\我的俄罗斯方块.lastbuildstate”执行 Touch 任务。
+已完成生成项目“G:\vc\我的俄罗斯方块\我的俄罗斯方块\我的俄罗斯方块.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.62
